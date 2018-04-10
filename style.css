@@ -28,6 +28,10 @@ header.startup {
 header.startup h1 {
   font-size: 2rem; 
 }
+#mc_embed_signup{
+	clear:left;
+	 font:14px Helvetica,Arial,sans-serif;
+}
 .navbar{
 	background-color: #2F363D;
 	color: white;
